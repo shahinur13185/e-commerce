@@ -43,3 +43,27 @@
 .categories img{
     width: 150px;
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#contact{
+    margin-top: 100px;
+    height: 300px;
+}
+
+#backpack{
+    margin-top: 100px;
+}
+
+footer{
+    text-align: center;
+}
