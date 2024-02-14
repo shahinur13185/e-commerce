@@ -17,3 +17,29 @@
 .container{
     margin-bottom: 100px;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+}
+
+.cat1{
+    background-color: rgb(10, 116, 143);
+}
+
+.cat2{
+    background-color: #FF589B;
+}
+
+.cat3{
+    background-color: chocolate;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 150px;
+}
